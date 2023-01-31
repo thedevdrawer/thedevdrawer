@@ -12,9 +12,11 @@ I publish videos weekly, usually related to PHP development using VS Code but so
 
 ### Interact with Me
 
+- 🛒 [Buy Merch](https://store.thedevdrawer.com)
 - 📺 [Find me on YouTube](https://www.youtube.com/c/devdrawer)
 - 🖥️ [Visit my website](https://thedevdrawer.com/)
 - 🤟 [Become a Patreon](https://www.patreon.com/devdrawer)
+- ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/devdrawer)
 
 You can also find me on [Twitter](https://twitter.com/thedevdrawer) or [Instagram](https://instagram.com/thedevdrawer).
 
